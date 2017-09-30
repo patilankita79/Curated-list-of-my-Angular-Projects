@@ -1,4 +1,4 @@
-# Curated list of my Angular 2+  Projects
+# Curated list of my Angular Projects
 This repository contains list of projects developed using Angular framework (Angular 2+)
 <hr>
 
