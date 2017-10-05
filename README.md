@@ -7,11 +7,11 @@ Project Repository  | Project Demo
 <a href = "https://github.com/patilankita79/Angular4-PhotoGallery">Photo Gallery Application</a> | https://photogalleryapp1.herokuapp.com/gallery
 <a href="https://github.com/patilankita79/Angular4-ImageExplorer">Image Explorer</a> | https://image-explorer.herokuapp.com/
 <a href="https://github.com/patilankita79/Angular4-FAQapp">FAQapp</a> | https://faq-angular-app.herokuapp.com/
-<a href="https://github.com/patilankita79/Angular4-ClientManagementSystem">Client Management System</a> | https://clientmanagementsystem-d52ad.firebaseapp.com
+<a href="https://github.com/patilankita79/Angular4-ClientManagementSystem">Client Management System *</a> | https://clientmanagementsystem-d52ad.firebaseapp.com
 
 
 <hr>
-<h3>Credentials</h3>
+<h3>* Credentials</h3>
 For Client Management System => <br>
 <strong>Email:</strong> ankita.patil@gmail.com<br>
 <strong>Password:</strong> 123456
