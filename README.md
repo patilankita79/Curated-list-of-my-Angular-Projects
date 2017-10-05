@@ -9,3 +9,10 @@ Project Repository  | Project Demo
 <a href="https://github.com/patilankita79/Angular4-FAQapp">FAQapp</a> | https://faq-angular-app.herokuapp.com/
 <a href="https://github.com/patilankita79/Angular4-ClientManagementSystem">Client Management System</a> | https://clientmanagementsystem-d52ad.firebaseapp.com
 
+
+<hr>
+<h3>Credentials
+For Client Management System => <br>
+<strong>Email:</strong> ankita.patil@gmail.com<br>
+<strong>Password:</strong> 123456
+
